@@ -1,0 +1,22 @@
+#addCustomerForm{
+    background: white;
+    color: black;
+    border-radius: 2px;
+    border: burlywood;
+}
+div{
+    background: white;
+    color: black;
+    border-radius: 2px;
+    border: burlywood; 
+}
+
+.alert
+{
+    color: red;
+}
+
+#message
+{
+    color: green;
+}
